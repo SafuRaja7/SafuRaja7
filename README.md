@@ -1,4 +1,7 @@
-### Hey there, I'm  Saif Waheed Raja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+ 
+<p align="center"> ### Hey there, I'm  Saif Waheed Raja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+</p>
+
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -10,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/saif-waheed-raja/">
+<a href="https://www.linkedin.com/in/safuraja7/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
