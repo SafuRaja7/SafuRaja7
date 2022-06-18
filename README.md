@@ -34,6 +34,9 @@
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 
 <div align="center">
+<br>
+<br>
+<br>
 <p align="center">🛠 Tools & Technology</p>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
