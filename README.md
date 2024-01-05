@@ -37,7 +37,7 @@
 
 <div align="center">
 <br>
-<p>🛠 Tools & Technology</p>
+#### 🛠 Tools & Technology
  
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
