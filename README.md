@@ -35,7 +35,6 @@
 - 🙋‍♂️ Former Google DSC Member [COMSATS Islamabad][dsccui]
 - 👉 Member [Flutter Islamabad][flutter_isb]
 
-<div align="center">
 <br>
 #### 🛠 Tools & Technology
  
