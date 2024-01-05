@@ -28,10 +28,12 @@
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
-
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: rajasaifi49@gmail.com
 - 🙋‍♂️ Former Google DSC Member [COMSATS Islamabad][dsccui]
 - 👉 Member [Flutter Islamabad][flutter_isb]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
 
 <div align="center">
 <br>
