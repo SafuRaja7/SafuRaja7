@@ -36,7 +36,10 @@
 - 👉 Member [Flutter Islamabad][flutter_isb]
 
 <br>
-#### 🛠 Tools & Technology
+<br>
+<br>
+<br>
+#### 🛠 Tools and Tech
  
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
